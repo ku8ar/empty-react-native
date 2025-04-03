@@ -1,0 +1,6 @@
+node_modules
+vendor
+ios/Pods
+ios/build
+main.jsbundle
+ios/deps
